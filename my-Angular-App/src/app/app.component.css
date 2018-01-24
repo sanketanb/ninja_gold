@@ -1,0 +1,22 @@
+.building_block{
+    width: 150px;
+    height: 150px;
+    border: 1px solid blue ;
+    margin-bottom: 10px;
+    margin-left: 10px;
+    padding-left: 20px;
+    display: inline-block; 
+}
+.adventure_block{
+    width: 400px;
+    height: 300px;
+    overflow: scroll;
+    border: 10px solid goldenrod ;
+    padding-left: 10px;
+}
+h2{
+    background-color: goldenrod;
+    text-align: center;
+    height: 45px;
+    padding-top: 5px;
+}
